@@ -3,6 +3,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+Hentai
+temp
+text.*
+test.*
 # C extensions
 *.so
 
